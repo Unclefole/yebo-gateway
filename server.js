@@ -30,9 +30,9 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
 ));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign/index.js
+// node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign/index.js
 var require_object_assign = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign/index.js"(exports2, module2) {
+  "node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign/index.js"(exports2, module2) {
     "use strict";
     var getOwnPropertySymbols = Object.getOwnPropertySymbols;
     var hasOwnProperty = Object.prototype.hasOwnProperty;
@@ -100,9 +100,9 @@ var require_object_assign = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/vary@1.1.2/node_modules/vary/index.js
+// node_modules/.pnpm/vary@1.1.2/node_modules/vary/index.js
 var require_vary = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/vary@1.1.2/node_modules/vary/index.js"(exports2, module2) {
+  "node_modules/.pnpm/vary@1.1.2/node_modules/vary/index.js"(exports2, module2) {
     "use strict";
     module2.exports = vary;
     module2.exports.append = append;
@@ -173,9 +173,9 @@ var require_vary = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/cors@2.8.6/node_modules/cors/lib/index.js
+// node_modules/.pnpm/cors@2.8.6/node_modules/cors/lib/index.js
 var require_lib = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/cors@2.8.6/node_modules/cors/lib/index.js"(exports2, module2) {
+  "node_modules/.pnpm/cors@2.8.6/node_modules/cors/lib/index.js"(exports2, module2) {
     (function() {
       "use strict";
       var assign = require_object_assign();
@@ -381,9 +381,9 @@ var require_lib = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/common.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/common.js
 var require_common = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/common.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/common.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.isInSubnet = isInSubnet;
@@ -428,9 +428,9 @@ var require_common = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v4/constants.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v4/constants.js
 var require_constants = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v4/constants.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v4/constants.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RE_SUBNET_STRING = exports2.RE_ADDRESS = exports2.GROUPS = exports2.BITS = void 0;
@@ -441,9 +441,9 @@ var require_constants = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/address-error.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/address-error.js
 var require_address_error = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/address-error.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/address-error.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.AddressError = void 0;
@@ -458,9 +458,9 @@ var require_address_error = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv4.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv4.js
 var require_ipv4 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv4.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv4.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -801,9 +801,9 @@ var require_ipv4 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/constants.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/constants.js
 var require_constants2 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/constants.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/constants.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RE_URL_WITH_PORT = exports2.RE_URL = exports2.RE_ZONE_STRING = exports2.RE_SUBNET_STRING = exports2.RE_BAD_ADDRESS = exports2.RE_BAD_CHARACTERS = exports2.TYPES = exports2.SCOPES = exports2.GROUPS = exports2.BITS = void 0;
@@ -852,9 +852,9 @@ var require_constants2 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/helpers.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/helpers.js
 var require_helpers = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/helpers.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/helpers.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.spanAllZeroes = spanAllZeroes;
@@ -887,9 +887,9 @@ var require_helpers = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/regular-expressions.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/regular-expressions.js
 var require_regular_expressions = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/regular-expressions.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/v6/regular-expressions.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -979,9 +979,9 @@ var require_regular_expressions = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv6.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv6.js
 var require_ipv6 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv6.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ipv6.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -1893,9 +1893,9 @@ var require_ipv6 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ip-address.js
+// node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ip-address.js
 var require_ip_address = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ip-address.js"(exports2) {
+  "node_modules/.pnpm/ip-address@10.1.0/node_modules/ip-address/dist/ip-address.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -1943,9 +1943,9 @@ var require_ip_address = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/enclave.js
+// packages/identity-kit/dist/enclave.js
 var require_enclave = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/enclave.js"(exports2) {
+  "packages/identity-kit/dist/enclave.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.generateEnclaveKeyPair = generateEnclaveKeyPair;
@@ -2023,9 +2023,9 @@ var require_enclave = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/identity.js
+// packages/identity-kit/dist/identity.js
 var require_identity = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/identity.js"(exports2) {
+  "packages/identity-kit/dist/identity.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createIdentity = createIdentity2;
@@ -2101,9 +2101,9 @@ var require_identity = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/biometric.js
+// packages/identity-kit/dist/biometric.js
 var require_biometric = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/biometric.js"(exports2) {
+  "packages/identity-kit/dist/biometric.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.verifyBiometric = verifyBiometric2;
@@ -2158,9 +2158,9 @@ var require_biometric = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/index.js
+// packages/identity-kit/dist/index.js
 var require_dist = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/identity-kit/dist/index.js"(exports2) {
+  "packages/identity-kit/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.generateAttestation = exports2.sha256 = exports2.generateNonce = exports2.enclaveSign = exports2.validatePresenceProof = exports2.consumeBiometricProof = exports2.verifyBiometric = exports2._getKeyHandle = exports2.listIdentities = exports2.markPasskeyRegistered = exports2.revokeIdentity = exports2.getIdentity = exports2.createIdentity = void 0;
@@ -2209,9 +2209,9 @@ var require_dist = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/storage-core/dist/index.js
+// packages/storage-core/dist/index.js
 var require_dist2 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/storage-core/dist/index.js"(exports2) {
+  "packages/storage-core/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.NonceRegistry = exports2.KVStore = exports2.AppendLog = exports2.JsonRepository = exports2.STORAGE_ROOT = exports2.DATA_ROOT = void 0;
@@ -2388,9 +2388,9 @@ var require_dist2 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/mandate-core/dist/index.js
+// packages/mandate-core/dist/index.js
 var require_dist3 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/mandate-core/dist/index.js"(exports2) {
+  "packages/mandate-core/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.PROTOCOL_VERSION = void 0;
@@ -2542,9 +2542,9 @@ var require_dist3 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authority-proof/dist/index.js
+// packages/authority-proof/dist/index.js
 var require_dist4 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authority-proof/dist/index.js"(exports2) {
+  "packages/authority-proof/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.generatePAI = generatePAI2;
@@ -2654,9 +2654,9 @@ var require_dist4 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/audit-core/dist/index.js
+// packages/audit-core/dist/index.js
 var require_dist5 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/audit-core/dist/index.js"(exports2) {
+  "packages/audit-core/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.record = record5;
@@ -2679,6 +2679,14 @@ var require_dist5 = __commonJS({
       try {
         ensureDataDir();
         (0, node_fs_1.appendFileSync)(LEDGER_FILE, JSON.stringify(r) + "\n", "utf-8");
+      } catch {
+      }
+      try {
+        const pgModule = globalThis["__yebo_db__"];
+        if (pgModule?.dbAppendAudit) {
+          pgModule.dbAppendAudit(r).catch(() => {
+          });
+        }
       } catch {
       }
     }
@@ -2788,9 +2796,9 @@ var require_dist5 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/ToolPolicyMapper.js
+// packages/capability-kernel/dist/ToolPolicyMapper.js
 var require_ToolPolicyMapper = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/ToolPolicyMapper.js"(exports2) {
+  "packages/capability-kernel/dist/ToolPolicyMapper.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.registerToolPolicy = registerToolPolicy;
@@ -2902,9 +2910,9 @@ var require_ToolPolicyMapper = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/CapabilityClassifier.js
+// packages/capability-kernel/dist/CapabilityClassifier.js
 var require_CapabilityClassifier = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/CapabilityClassifier.js"(exports2) {
+  "packages/capability-kernel/dist/CapabilityClassifier.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.classifyAction = classifyAction;
@@ -2932,9 +2940,9 @@ var require_CapabilityClassifier = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/PolicyAuthorization.js
+// packages/authorization-sessions/dist/PolicyAuthorization.js
 var require_PolicyAuthorization = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/PolicyAuthorization.js"(exports2) {
+  "packages/authorization-sessions/dist/PolicyAuthorization.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.computePolicyAuthHash = computePolicyAuthHash;
@@ -3005,9 +3013,9 @@ var require_PolicyAuthorization = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionStore.js
+// packages/authorization-sessions/dist/SessionStore.js
 var require_SessionStore = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionStore.js"(exports2) {
+  "packages/authorization-sessions/dist/SessionStore.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getSessionRepo = getSessionRepo;
@@ -3037,9 +3045,9 @@ var require_SessionStore = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionIssuer.js
+// packages/authorization-sessions/dist/SessionIssuer.js
 var require_SessionIssuer = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionIssuer.js"(exports2) {
+  "packages/authorization-sessions/dist/SessionIssuer.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.issueSession = issueSession2;
@@ -3078,9 +3086,9 @@ var require_SessionIssuer = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionExpiry.js
+// packages/authorization-sessions/dist/SessionExpiry.js
 var require_SessionExpiry = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionExpiry.js"(exports2) {
+  "packages/authorization-sessions/dist/SessionExpiry.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.markExpiredIfNeeded = markExpiredIfNeeded;
@@ -3112,9 +3120,9 @@ var require_SessionExpiry = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionVerifier.js
+// packages/authorization-sessions/dist/SessionVerifier.js
 var require_SessionVerifier = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionVerifier.js"(exports2) {
+  "packages/authorization-sessions/dist/SessionVerifier.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.verifySession = verifySession2;
@@ -3158,9 +3166,9 @@ var require_SessionVerifier = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionBudgetTracker.js
+// packages/authorization-sessions/dist/SessionBudgetTracker.js
 var require_SessionBudgetTracker = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/SessionBudgetTracker.js"(exports2) {
+  "packages/authorization-sessions/dist/SessionBudgetTracker.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.debitSession = debitSession2;
@@ -3230,9 +3238,9 @@ var require_SessionBudgetTracker = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/index.js
+// packages/authorization-sessions/dist/index.js
 var require_dist6 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-sessions/dist/index.js"(exports2) {
+  "packages/authorization-sessions/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.findActiveSessionsForAgent = exports2.findSessionsForIdentity = exports2.findSession = exports2.secondsRemaining = exports2.revokeSession = exports2.markExpiredIfNeeded = exports2.getBudgetRemaining = exports2.debitSession = exports2.isSessionValid = exports2.verifySession = exports2.issueSession = exports2.computePolicyAuthHash = exports2.listPolicyAuthorizations = exports2.getPolicyAuthorization = exports2.issuePolicy = void 0;
@@ -3290,9 +3298,9 @@ var require_dist6 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/EmergencyStop.js
+// packages/authorization-modes/dist/EmergencyStop.js
 var require_EmergencyStop = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/EmergencyStop.js"(exports2) {
+  "packages/authorization-modes/dist/EmergencyStop.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.isSessionExpired = isSessionExpired;
@@ -3380,9 +3388,9 @@ var require_EmergencyStop = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/ThresholdPolicy.js
+// packages/authorization-modes/dist/ThresholdPolicy.js
 var require_ThresholdPolicy = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/ThresholdPolicy.js"(exports2) {
+  "packages/authorization-modes/dist/ThresholdPolicy.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.isAmountAboveThreshold = isAmountAboveThreshold;
@@ -3433,9 +3441,9 @@ var require_ThresholdPolicy = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/ModeEvaluator.js
+// packages/authorization-modes/dist/ModeEvaluator.js
 var require_ModeEvaluator = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/ModeEvaluator.js"(exports2) {
+  "packages/authorization-modes/dist/ModeEvaluator.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.evaluateMode = evaluateMode2;
@@ -3475,9 +3483,9 @@ var require_ModeEvaluator = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/index.js
+// packages/authorization-modes/dist/index.js
 var require_dist7 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-modes/dist/index.js"(exports2) {
+  "packages/authorization-modes/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.isIntegrityRisk = exports2.isMerchantUnusual = exports2.isAmountAboveThreshold = exports2.checkThresholdConditions = exports2.isAmountOverHardLimit = exports2.isMerchantBlocked = exports2.isCapabilityBlocked = exports2.isBudgetExhausted = exports2.isSessionRevoked = exports2.isSessionExpired = exports2.checkEmergencyConditions = exports2.evaluateMode = void 0;
@@ -3523,9 +3531,9 @@ var require_dist7 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/economics-core/dist/index.js
+// packages/economics-core/dist/index.js
 var require_dist8 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/economics-core/dist/index.js"(exports2) {
+  "packages/economics-core/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.FEE_SCHEDULE = exports2.BASE_FEE_USD = void 0;
@@ -3614,9 +3622,9 @@ var require_dist8 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/integrity-score/dist/index.js
+// packages/integrity-score/dist/index.js
 var require_dist9 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/integrity-score/dist/index.js"(exports2) {
+  "packages/integrity-score/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.FRICTION_RULES = void 0;
@@ -3774,9 +3782,9 @@ var require_dist9 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/KernelClient.js
+// packages/capability-kernel/dist/KernelClient.js
 var require_KernelClient = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/KernelClient.js"(exports2) {
+  "packages/capability-kernel/dist/KernelClient.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.preflight = preflight;
@@ -3905,9 +3913,9 @@ var require_KernelClient = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/ExecutionBoundary.js
+// packages/capability-kernel/dist/ExecutionBoundary.js
 var require_ExecutionBoundary = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/ExecutionBoundary.js"(exports2) {
+  "packages/capability-kernel/dist/ExecutionBoundary.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ExecutionBlockedError = exports2.ChallengeRequiredError = void 0;
@@ -3958,9 +3966,9 @@ var require_ExecutionBoundary = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/index.js
+// packages/capability-kernel/dist/index.js
 var require_dist10 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/capability-kernel/dist/index.js"(exports2) {
+  "packages/capability-kernel/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ExecutionBlockedError = exports2.ChallengeRequiredError = exports2.wrapTool = exports2.preflight = exports2.classifyAction = exports2.unregisterToolPolicy = exports2.registerToolPolicy = exports2.getActionClass = void 0;
@@ -3995,9 +4003,9 @@ var require_dist10 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/agent-runtime/dist/index.js
+// packages/agent-runtime/dist/index.js
 var require_dist11 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/agent-runtime/dist/index.js"(exports2) {
+  "packages/agent-runtime/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.preflightAction = preflightAction;
@@ -4171,9 +4179,9 @@ var require_dist11 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/mcp-bridge/dist/index.js
+// packages/mcp-bridge/dist/index.js
 var require_dist12 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/mcp-bridge/dist/index.js"(exports2) {
+  "packages/mcp-bridge/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.registerAgent = registerAgent;
@@ -4577,9 +4585,9 @@ var require_dist12 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/yebo-passkey/dist/index.js
+// packages/yebo-passkey/dist/index.js
 var require_dist13 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/yebo-passkey/dist/index.js"(exports2) {
+  "packages/yebo-passkey/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RP_ORIGIN = exports2.RP_NAME = exports2.RP_ID = void 0;
@@ -4964,9 +4972,9 @@ var require_dist13 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/plugin-sdk/dist/index.js
+// packages/plugin-sdk/dist/index.js
 var require_dist14 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/plugin-sdk/dist/index.js"(exports2) {
+  "packages/plugin-sdk/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createManifest = createManifest;
@@ -5080,9 +5088,9 @@ var require_dist14 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/plugin-marketplace/dist/index.js
+// packages/plugin-marketplace/dist/index.js
 var require_dist15 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/plugin-marketplace/dist/index.js"(exports2) {
+  "packages/plugin-marketplace/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.activatePlugin = exports2.verifyPlugin = exports2.createManifest = void 0;
@@ -5358,9 +5366,9 @@ var require_dist15 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/sentinel/dist/index.js
+// packages/sentinel/dist/index.js
 var require_dist16 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/sentinel/dist/index.js"(exports2) {
+  "packages/sentinel/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sentinelVerify = sentinelVerify2;
@@ -5529,9 +5537,9 @@ var require_dist16 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/policy-core/dist/index.js
+// packages/policy-core/dist/index.js
 var require_dist17 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/policy-core/dist/index.js"(exports2) {
+  "packages/policy-core/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DEFAULT_POLICY = void 0;
@@ -5652,9 +5660,9 @@ var require_dist17 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/rate-limit-core/dist/index.js
+// packages/rate-limit-core/dist/index.js
 var require_dist18 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/rate-limit-core/dist/index.js"(exports2) {
+  "packages/rate-limit-core/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DEFAULT_POLICY = void 0;
@@ -5746,9 +5754,9 @@ var require_dist18 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/EventBus.js
+// packages/event-bus/dist/EventBus.js
 var require_EventBus = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/EventBus.js"(exports2) {
+  "packages/event-bus/dist/EventBus.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.InMemoryEventBus = void 0;
@@ -5814,9 +5822,9 @@ var require_EventBus = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/Publisher.js
+// packages/event-bus/dist/Publisher.js
 var require_Publisher = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/Publisher.js"(exports2) {
+  "packages/event-bus/dist/Publisher.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.publish = publish;
@@ -5836,9 +5844,9 @@ var require_Publisher = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/Subscriber.js
+// packages/event-bus/dist/Subscriber.js
 var require_Subscriber = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/Subscriber.js"(exports2) {
+  "packages/event-bus/dist/Subscriber.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.subscribe = subscribe;
@@ -5862,9 +5870,9 @@ var require_Subscriber = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/index.js
+// packages/event-bus/dist/index.js
 var require_dist19 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/event-bus/dist/index.js"(exports2) {
+  "packages/event-bus/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.subscribeMany = exports2.subscribe = exports2.bindPublisher = exports2.publishAll = exports2.publish = exports2.InMemoryEventBus = void 0;
@@ -5897,9 +5905,9 @@ var require_dist19 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/execution-adapters/dist/index.js
+// packages/execution-adapters/dist/index.js
 var require_dist20 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/execution-adapters/dist/index.js"(exports2) {
+  "packages/execution-adapters/dist/index.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -6090,9 +6098,9 @@ var require_dist20 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/workers/execution-worker/dist/index.js
+// workers/execution-worker/dist/index.js
 var require_dist21 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/workers/execution-worker/dist/index.js"(exports2) {
+  "workers/execution-worker/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.initExecutionWorker = initExecutionWorker2;
@@ -6154,9 +6162,9 @@ var require_dist21 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/workers/audit-writer/dist/index.js
+// workers/audit-writer/dist/index.js
 var require_dist22 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/workers/audit-writer/dist/index.js"(exports2) {
+  "workers/audit-writer/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.initAuditWriter = initAuditWriter2;
@@ -6238,9 +6246,9 @@ var require_dist22 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/workers/integrity-worker/dist/index.js
+// workers/integrity-worker/dist/index.js
 var require_dist23 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/workers/integrity-worker/dist/index.js"(exports2) {
+  "workers/integrity-worker/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.initIntegrityWorker = initIntegrityWorker2;
@@ -6300,9 +6308,9 @@ var require_dist23 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptKeyStore.js
+// packages/authorization-receipt/dist/ReceiptKeyStore.js
 var require_ReceiptKeyStore = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptKeyStore.js"(exports2) {
+  "packages/authorization-receipt/dist/ReceiptKeyStore.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getActiveSigningKey = getActiveSigningKey;
@@ -6408,9 +6416,9 @@ var require_ReceiptKeyStore = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptSerializer.js
+// packages/authorization-receipt/dist/ReceiptSerializer.js
 var require_ReceiptSerializer = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptSerializer.js"(exports2) {
+  "packages/authorization-receipt/dist/ReceiptSerializer.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.extractSignedFields = extractSignedFields;
@@ -6447,9 +6455,9 @@ var require_ReceiptSerializer = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptSigner.js
+// packages/authorization-receipt/dist/ReceiptSigner.js
 var require_ReceiptSigner = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptSigner.js"(exports2) {
+  "packages/authorization-receipt/dist/ReceiptSigner.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.signReceipt = signReceipt;
@@ -6528,9 +6536,9 @@ var require_ReceiptSigner = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptVerifier.js
+// packages/authorization-receipt/dist/ReceiptVerifier.js
 var require_ReceiptVerifier = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptVerifier.js"(exports2) {
+  "packages/authorization-receipt/dist/ReceiptVerifier.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.verifyReceipt = verifyReceipt2;
@@ -6672,9 +6680,9 @@ var require_ReceiptVerifier = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptStore.js
+// packages/authorization-receipt/dist/ReceiptStore.js
 var require_ReceiptStore = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptStore.js"(exports2) {
+  "packages/authorization-receipt/dist/ReceiptStore.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.storeReceipt = storeReceipt;
@@ -6700,9 +6708,9 @@ var require_ReceiptStore = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptKeyRotation.js
+// packages/authorization-receipt/dist/ReceiptKeyRotation.js
 var require_ReceiptKeyRotation = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ReceiptKeyRotation.js"(exports2) {
+  "packages/authorization-receipt/dist/ReceiptKeyRotation.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.rotateSigningKey = rotateSigningKey2;
@@ -6748,9 +6756,9 @@ var require_ReceiptKeyRotation = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/DisputeLinker.js
+// packages/authorization-receipt/dist/DisputeLinker.js
 var require_DisputeLinker = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/DisputeLinker.js"(exports2) {
+  "packages/authorization-receipt/dist/DisputeLinker.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createDisputeLink = createDisputeLink2;
@@ -6826,9 +6834,9 @@ var require_DisputeLinker = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ExportFormatter.js
+// packages/authorization-receipt/dist/ExportFormatter.js
 var require_ExportFormatter = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/ExportFormatter.js"(exports2) {
+  "packages/authorization-receipt/dist/ExportFormatter.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.exportAsJSON = exportAsJSON2;
@@ -6904,9 +6912,9 @@ var require_ExportFormatter = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/PartnerReceiptView.js
+// packages/authorization-receipt/dist/PartnerReceiptView.js
 var require_PartnerReceiptView = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/PartnerReceiptView.js"(exports2) {
+  "packages/authorization-receipt/dist/PartnerReceiptView.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.toPartnerView = toPartnerView2;
@@ -6932,9 +6940,9 @@ var require_PartnerReceiptView = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/BundleBuilder.js
+// packages/authorization-receipt/dist/BundleBuilder.js
 var require_BundleBuilder = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/BundleBuilder.js"(exports2) {
+  "packages/authorization-receipt/dist/BundleBuilder.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.buildBundle = buildBundle2;
@@ -7009,9 +7017,9 @@ var require_BundleBuilder = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/BundleVerifier.js
+// packages/authorization-receipt/dist/BundleVerifier.js
 var require_BundleVerifier = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/BundleVerifier.js"(exports2) {
+  "packages/authorization-receipt/dist/BundleVerifier.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.verifyBundle = verifyBundle2;
@@ -7103,9 +7111,9 @@ var require_BundleVerifier = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/AuditorReceiptView.js
+// packages/authorization-receipt/dist/AuditorReceiptView.js
 var require_AuditorReceiptView = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/AuditorReceiptView.js"(exports2) {
+  "packages/authorization-receipt/dist/AuditorReceiptView.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.toAuditorView = toAuditorView2;
@@ -7129,9 +7137,9 @@ var require_AuditorReceiptView = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/index.js
+// packages/authorization-receipt/dist/index.js
 var require_dist24 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/authorization-receipt/dist/index.js"(exports2) {
+  "packages/authorization-receipt/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.toAuditorView = exports2.verifyBundle = exports2.buildBundle = exports2.extractSignedFields = exports2.hashReceipt = exports2.canonicalize = exports2.toPartnerView = exports2.exportAsCSV = exports2.exportAsNDJSON = exports2.exportAsJSON = exports2.updateDisputeStatus = exports2.getDisputeLink = exports2.createDisputeLink = exports2.rotateSigningKey = exports2.getActiveSigningKey = exports2.toPublicKeyInfo = exports2.getKeyById = exports2.getAllPublicKeyInfos = exports2.listStoredReceipts = exports2.getStoredReceipt = exports2.storeReceipt = exports2.verifyReceipt = exports2.getSignerPublicKey = exports2.signReceipt = void 0;
@@ -7223,9 +7231,9 @@ var require_dist24 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/workers/receipt-builder/dist/index.js
+// workers/receipt-builder/dist/index.js
 var require_dist25 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/workers/receipt-builder/dist/index.js"(exports2) {
+  "workers/receipt-builder/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getStoredReceipt = void 0;
@@ -7393,9 +7401,9 @@ var require_dist25 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/workers/notification-service/dist/index.js
+// workers/notification-service/dist/index.js
 var require_dist26 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/workers/notification-service/dist/index.js"(exports2) {
+  "workers/notification-service/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.initNotificationService = initNotificationService2;
@@ -7420,9 +7428,9 @@ var require_dist26 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/ChallengeStore.js
+// packages/continuation-token/dist/ChallengeStore.js
 var require_ChallengeStore = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/ChallengeStore.js"(exports2) {
+  "packages/continuation-token/dist/ChallengeStore.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.saveChallengeContext = saveChallengeContext2;
@@ -7458,9 +7466,9 @@ var require_ChallengeStore = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/ContinuationSigner.js
+// packages/continuation-token/dist/ContinuationSigner.js
 var require_ContinuationSigner = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/ContinuationSigner.js"(exports2) {
+  "packages/continuation-token/dist/ContinuationSigner.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.signContinuationToken = signContinuationToken2;
@@ -7528,9 +7536,9 @@ var require_ContinuationSigner = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/ContinuationVerifier.js
+// packages/continuation-token/dist/ContinuationVerifier.js
 var require_ContinuationVerifier = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/ContinuationVerifier.js"(exports2) {
+  "packages/continuation-token/dist/ContinuationVerifier.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.verifyContinuationToken = verifyContinuationToken2;
@@ -7650,9 +7658,9 @@ var require_ContinuationVerifier = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/index.js
+// packages/continuation-token/dist/index.js
 var require_dist27 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/continuation-token/dist/index.js"(exports2) {
+  "packages/continuation-token/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.verifyContinuationToken = exports2.signContinuationToken = exports2.markChallengeExpired = exports2.markChallengeApproved = exports2.getChallengeContext = exports2.saveChallengeContext = void 0;
@@ -7680,9 +7688,9 @@ var require_dist27 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/packages/verification-plane/dist/index.js
+// packages/verification-plane/dist/index.js
 var require_dist28 = __commonJS({
-  "../../../../Desktop/yebo-monorepo-extract/packages/verification-plane/dist/index.js"(exports2) {
+  "packages/verification-plane/dist/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.verifyPreflight = verifyPreflight2;
@@ -7740,7 +7748,7 @@ var require_dist28 = __commonJS({
   }
 });
 
-// ../../../../Desktop/yebo-monorepo-extract/apps/yebo-gateway/src/server.ts
+// apps/yebo-gateway/src/server.ts
 var server_exports = {};
 __export(server_exports, {
   default: () => server_default
@@ -7750,7 +7758,7 @@ var import_node_crypto3 = require("node:crypto");
 var import_express2 = __toESM(require("express"));
 var import_cors = __toESM(require_lib());
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/helmet@8.1.0/node_modules/helmet/index.mjs
+// node_modules/.pnpm/helmet@8.1.0/node_modules/helmet/index.mjs
 var dangerouslyDisableDefaultSrc = /* @__PURE__ */ Symbol("dangerouslyDisableDefaultSrc");
 var SHOULD_BE_QUOTED = /* @__PURE__ */ new Set(["none", "self", "strict-dynamic", "report-sample", "inline-speculation-rules", "unsafe-inline", "unsafe-eval", "unsafe-hashes", "wasm-unsafe-eval"]);
 var getDefaultDirectives = () => ({
@@ -8292,7 +8300,7 @@ var helmet = Object.assign(
   }
 );
 
-// ../../../../Desktop/yebo-monorepo-extract/node_modules/.pnpm/express-rate-limit@8.3.1_express@4.22.1/node_modules/express-rate-limit/dist/index.mjs
+// node_modules/.pnpm/express-rate-limit@8.3.1_express@4.22.1/node_modules/express-rate-limit/dist/index.mjs
 var import_node_net = require("node:net");
 var import_ip_address = __toESM(require_ip_address(), 1);
 var import_node_net2 = require("node:net");
@@ -9195,7 +9203,7 @@ var rateLimit = (passedOptions) => {
 };
 var rate_limit_default = rateLimit;
 
-// ../../../../Desktop/yebo-monorepo-extract/apps/yebo-gateway/src/server.ts
+// apps/yebo-gateway/src/server.ts
 var import_pino = __toESM(require("pino"));
 var import_zod = require("zod");
 var import_authority_proof3 = __toESM(require_dist4());
@@ -9208,7 +9216,7 @@ var import_plugin_marketplace = __toESM(require_dist15());
 var import_integrity_score = __toESM(require_dist9());
 var import_economics_core = __toESM(require_dist8());
 
-// ../../../../Desktop/yebo-monorepo-extract/apps/yebo-gateway/src/middleware/paiVerifier.ts
+// apps/yebo-gateway/src/middleware/paiVerifier.ts
 var import_authority_proof = __toESM(require_dist4());
 var import_audit_core = __toESM(require_dist5());
 function paiVerifierMiddleware(req, res, next) {
@@ -9255,7 +9263,7 @@ function paiVerifierMiddleware(req, res, next) {
   next();
 }
 
-// ../../../../Desktop/yebo-monorepo-extract/apps/yebo-gateway/src/middleware/sentinelCheck.ts
+// apps/yebo-gateway/src/middleware/sentinelCheck.ts
 var import_sentinel = __toESM(require_dist16());
 var import_mandate_core = __toESM(require_dist3());
 var import_authority_proof2 = __toESM(require_dist4());
@@ -9291,7 +9299,7 @@ function sentinelCheckMiddleware(req, res, next) {
   next();
 }
 
-// ../../../../Desktop/yebo-monorepo-extract/apps/yebo-gateway/src/middleware/interceptor.ts
+// apps/yebo-gateway/src/middleware/interceptor.ts
 var import_audit_core2 = __toESM(require_dist5());
 var import_rate_limit_core = __toESM(require_dist18());
 function interceptorMiddleware(req, res, next) {
@@ -9324,16 +9332,276 @@ function interceptorMiddleware(req, res, next) {
   next();
 }
 
-// ../../../../Desktop/yebo-monorepo-extract/apps/yebo-gateway/src/routes/webhook.ts
+// apps/yebo-gateway/src/routes/webhook.ts
 var import_express = require("express");
 var import_node_crypto2 = require("node:crypto");
 var import_audit_core3 = __toESM(require_dist5());
+
+// apps/yebo-gateway/src/db.ts
+var import_pg = require("pg");
+var pool = null;
+async function initDatabase() {
+  const url = process.env["DATABASE_URL"];
+  if (!url) {
+    console.info("[db] DATABASE_URL not set \u2014 using file-based storage fallback");
+    return;
+  }
+  pool = new import_pg.Pool({
+    connectionString: url,
+    max: 5,
+    idleTimeoutMillis: 3e4,
+    connectionTimeoutMillis: 5e3,
+    ssl: url.includes("sslmode=disable") ? false : { rejectUnauthorized: false }
+  });
+  let client = null;
+  try {
+    client = await pool.connect();
+    console.info("[db] PostgreSQL connected");
+  } catch (err) {
+    console.error("[db] Failed to connect to PostgreSQL \u2014 falling back to file storage:", err);
+    await pool.end().catch(() => {
+    });
+    pool = null;
+    return;
+  } finally {
+    client?.release();
+  }
+  await runMigration();
+}
+async function runMigration() {
+  if (!pool) return;
+  const client = await pool.connect();
+  try {
+    await client.query("BEGIN");
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS waitlist_entries (
+        id            TEXT PRIMARY KEY,
+        email         TEXT NOT NULL UNIQUE,
+        name          TEXT,
+        metadata      JSONB DEFAULT '{}',
+        created_at    TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      )
+    `);
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS audit_ledger (
+        event_id      TEXT PRIMARY KEY,
+        action        TEXT NOT NULL,
+        actor_id      TEXT NOT NULL,
+        mandate_id    TEXT,
+        enterprise_id TEXT,
+        decision      TEXT NOT NULL,
+        detail        JSONB,
+        previous_hash TEXT NOT NULL,
+        event_hash    TEXT NOT NULL,
+        timestamp     TIMESTAMPTZ NOT NULL,
+        created_at    TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      )
+    `);
+    await client.query(`CREATE INDEX IF NOT EXISTS idx_audit_actor   ON audit_ledger(actor_id)`);
+    await client.query(`CREATE INDEX IF NOT EXISTS idx_audit_mandate ON audit_ledger(mandate_id)`);
+    await client.query(`CREATE INDEX IF NOT EXISTS idx_audit_ts      ON audit_ledger(timestamp DESC)`);
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS agent_registrations (
+        id          TEXT PRIMARY KEY,
+        data        JSONB NOT NULL,
+        created_at  TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+        updated_at  TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      )
+    `);
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS passkey_credentials (
+        id          TEXT PRIMARY KEY,
+        data        JSONB NOT NULL,
+        created_at  TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+        updated_at  TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      )
+    `);
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS authorization_sessions (
+        id          TEXT PRIMARY KEY,
+        data        JSONB NOT NULL,
+        expires_at  TIMESTAMPTZ,
+        created_at  TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+        updated_at  TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      )
+    `);
+    await client.query(`CREATE INDEX IF NOT EXISTS idx_sessions_exp ON authorization_sessions(expires_at)`);
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS dead_letter (
+        id              TEXT PRIMARY KEY,
+        webhook_url     TEXT NOT NULL,
+        payload         JSONB NOT NULL,
+        error           TEXT,
+        attempts        INT NOT NULL DEFAULT 0,
+        circuit_open    BOOLEAN NOT NULL DEFAULT FALSE,
+        created_at      TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+        last_attempt_at TIMESTAMPTZ
+      )
+    `);
+    await client.query(`CREATE INDEX IF NOT EXISTS idx_dl_url ON dead_letter(webhook_url)`);
+    await client.query("COMMIT");
+    console.info("[db] Schema migration complete");
+  } catch (err) {
+    await client.query("ROLLBACK");
+    console.error("[db] Migration failed:", err);
+  } finally {
+    client.release();
+  }
+}
+async function dbAppendAudit(record5) {
+  if (!pool) return;
+  try {
+    await pool.query(
+      `INSERT INTO audit_ledger(event_id, action, actor_id, mandate_id, enterprise_id,
+        decision, detail, previous_hash, event_hash, timestamp)
+       VALUES($1,$2,$3,$4,$5,$6,$7,$8,$9,$10)
+       ON CONFLICT(event_id) DO NOTHING`,
+      [
+        record5.event_id,
+        record5.action,
+        record5.actor_id,
+        record5.mandate_id ?? null,
+        record5.enterprise_id ?? null,
+        record5.decision,
+        record5.detail ? JSON.stringify(record5.detail) : null,
+        record5.previous_hash,
+        record5.event_hash,
+        record5.timestamp
+      ]
+    );
+  } catch {
+  }
+}
+async function dbSaveDeadLetter(entry) {
+  if (!pool) {
+    const { appendFileSync, mkdirSync, existsSync } = await import("node:fs");
+    const { join } = await import("node:path");
+    const dir = process.env["YEBO_DATA_DIR"] ?? join(process.cwd(), ".yebo-data");
+    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+    appendFileSync(join(dir, "dead-letter.jsonl"), JSON.stringify({ ...entry, created_at: (/* @__PURE__ */ new Date()).toISOString() }) + "\n", "utf-8");
+    return;
+  }
+  await pool.query(
+    `INSERT INTO dead_letter(id, webhook_url, payload, error, attempts, circuit_open, last_attempt_at)
+     VALUES($1,$2,$3,$4,$5,$6,NOW())
+     ON CONFLICT(id) DO UPDATE SET error=EXCLUDED.error, attempts=EXCLUDED.attempts,
+       circuit_open=EXCLUDED.circuit_open, last_attempt_at=NOW()`,
+    [
+      entry.id,
+      entry.webhook_url,
+      JSON.stringify(entry.payload),
+      entry.error,
+      entry.attempts,
+      entry.circuit_open ?? false
+    ]
+  );
+}
+
+// apps/yebo-gateway/src/routes/webhook.ts
 var webhookRouter = (0, import_express.Router)();
+var circuitMap = /* @__PURE__ */ new Map();
+var CIRCUIT_THRESHOLD = 5;
+var CIRCUIT_PAUSE_MS = 6e4;
+function getCircuit(url) {
+  let state = circuitMap.get(url);
+  if (!state) {
+    state = { failures: 0, openUntil: 0 };
+    circuitMap.set(url, state);
+  }
+  return state;
+}
+function isCircuitOpen(url) {
+  const state = getCircuit(url);
+  if (state.openUntil > 0 && Date.now() < state.openUntil) {
+    return true;
+  }
+  if (state.openUntil > 0 && Date.now() >= state.openUntil) {
+    state.failures = 0;
+    state.openUntil = 0;
+  }
+  return false;
+}
+function recordFailure(url) {
+  const state = getCircuit(url);
+  state.failures += 1;
+  if (state.failures >= CIRCUIT_THRESHOLD) {
+    state.openUntil = Date.now() + CIRCUIT_PAUSE_MS;
+    console.warn(`[webhook] Circuit open for ${url} \u2014 paused for 60s`);
+  }
+}
+function recordSuccess(url) {
+  const state = getCircuit(url);
+  state.failures = 0;
+  state.openUntil = 0;
+}
+function signPayload(payload) {
+  const secret = process.env["WEBHOOK_SECRET"] ?? "dev-webhook-secret";
+  return (0, import_node_crypto2.createHmac)("sha256", secret).update(payload).digest("hex");
+}
+var RETRY_DELAYS_MS = [1e3, 2e3, 4e3];
+var TIMEOUT_MS = 5e3;
+async function dispatchWebhook(url, payload, eventType) {
+  if (isCircuitOpen(url)) {
+    const msg = `Circuit breaker open for ${url}`;
+    console.warn(`[webhook] ${msg}`);
+    await saveToDeadLetter(url, payload, msg, CIRCUIT_THRESHOLD);
+    return { success: false, error: msg };
+  }
+  const body = JSON.stringify(payload);
+  const signature = signPayload(body);
+  const headers = {
+    "Content-Type": "application/json",
+    "X-Yebo-Signature": signature,
+    "X-Yebo-Event": eventType,
+    "X-Yebo-Timestamp": (/* @__PURE__ */ new Date()).toISOString()
+  };
+  let lastError = "";
+  for (let attempt = 0; attempt < RETRY_DELAYS_MS.length; attempt++) {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), TIMEOUT_MS);
+      let response;
+      try {
+        response = await fetch(url, { method: "POST", headers, body, signal: controller.signal });
+      } finally {
+        clearTimeout(timeout);
+      }
+      if (response.ok) {
+        recordSuccess(url);
+        return { success: true, status: response.status };
+      }
+      lastError = `HTTP ${response.status}`;
+    } catch (err) {
+      lastError = err instanceof Error ? err.message : String(err);
+      if (err.name === "AbortError") {
+        lastError = "Request timed out after 5s";
+      }
+    }
+    if (attempt < RETRY_DELAYS_MS.length - 1) {
+      await new Promise((r) => setTimeout(r, RETRY_DELAYS_MS[attempt]));
+    }
+  }
+  recordFailure(url);
+  await saveToDeadLetter(url, payload, lastError, RETRY_DELAYS_MS.length);
+  return { success: false, error: lastError };
+}
+async function saveToDeadLetter(url, payload, error, attempts) {
+  await dbSaveDeadLetter({
+    id: (0, import_node_crypto2.randomUUID)(),
+    webhook_url: url,
+    payload,
+    error,
+    attempts,
+    circuit_open: isCircuitOpen(url)
+  });
+}
 webhookRouter.post("/mandate-event", (req, res) => {
   const signature = req.headers["x-yebo-signature"];
-  const secret = process.env["WEBHOOK_SECRET"] ?? "dev-secret";
+  const secret = process.env["WEBHOOK_SECRET"] ?? "dev-webhook-secret";
   const expectedSig = (0, import_node_crypto2.createHash)("sha256").update(secret + JSON.stringify(req.body)).digest("hex");
-  if (signature && signature !== expectedSig) {
+  const body = JSON.stringify(req.body);
+  const hmacSig = (0, import_node_crypto2.createHmac)("sha256", secret).update(body).digest("hex");
+  if (!signature || signature !== expectedSig && signature !== hmacSig) {
     res.status(401).json({ error: "INVALID_SIGNATURE" });
     return;
   }
@@ -9352,6 +9620,14 @@ webhookRouter.post("/mandate-event", (req, res) => {
   res.json({ received: true, mandate_id, event });
 });
 webhookRouter.post("/settlement-event", (req, res) => {
+  const settleSig = req.headers["x-yebo-signature"];
+  const settleSecret = process.env["WEBHOOK_SECRET"] ?? "dev-webhook-secret";
+  const settleBody = JSON.stringify(req.body);
+  const settleExpected = (0, import_node_crypto2.createHmac)("sha256", settleSecret).update(settleBody).digest("hex");
+  if (!settleSig || settleSig !== settleExpected) {
+    res.status(401).json({ error: "INVALID_SIGNATURE", message: "Missing or invalid webhook signature" });
+    return;
+  }
   const { settlement_id, status, reference } = req.body;
   if (!settlement_id) {
     res.status(400).json({ error: "MISSING_FIELDS" });
@@ -9365,8 +9641,48 @@ webhookRouter.post("/settlement-event", (req, res) => {
   });
   res.json({ received: true, settlement_id });
 });
+webhookRouter.post("/dispatch", async (req, res) => {
+  const { url, payload, event_type } = req.body;
+  if (!url || !payload || !event_type) {
+    res.status(400).json({ error: "MISSING_FIELDS", required: ["url", "payload", "event_type"] });
+    return;
+  }
+  const result = await dispatchWebhook(url, payload, event_type);
+  res.status(result.success ? 200 : 502).json(result);
+});
 
-// ../../../../Desktop/yebo-monorepo-extract/apps/yebo-gateway/src/server.ts
+// apps/yebo-gateway/src/redis.ts
+var redisClient = null;
+async function initRedis() {
+  const url = process.env["REDIS_URL"] || process.env["UPSTASH_REDIS_URL"];
+  const token = process.env["UPSTASH_REDIS_TOKEN"];
+  if (!url) {
+    console.info("[redis] REDIS_URL/UPSTASH_REDIS_URL not set \u2014 using in-memory fallback");
+    return;
+  }
+  try {
+    const { default: Redis } = await import("ioredis");
+    let connectionString = url;
+    if (token && !url.includes("@")) {
+      connectionString = url.replace(/^(rediss?:\/\/)/, `$1:${token}@`);
+    }
+    redisClient = new Redis(connectionString, {
+      tls: url.startsWith("rediss://") ? {} : void 0,
+      maxRetriesPerRequest: 3,
+      connectTimeout: 5e3,
+      enableReadyCheck: true,
+      lazyConnect: true
+    });
+    await redisClient.connect();
+    console.info("[redis] Connected to Upstash Redis");
+  } catch (err) {
+    console.error("[redis] Failed to connect \u2014 using in-memory fallback:", err);
+    redisClient = null;
+  }
+}
+var NONCE_TTL_MS = 5 * 60 * 1e3;
+
+// apps/yebo-gateway/src/server.ts
 var import_event_bus = __toESM(require_dist19());
 var import_execution_worker = __toESM(require_dist21());
 var import_audit_writer = __toESM(require_dist22());
@@ -9390,7 +9706,14 @@ var ENV = import_zod.z.object({
   RATE_LIMIT_MAX_GLOBAL: import_zod.z.coerce.number().default(100),
   YEBO_RP_ID: import_zod.z.string().default(process.env["NODE_ENV"] === "production" ? "yebo.dev" : "localhost"),
   YEBO_RP_ORIGIN: import_zod.z.string().default(process.env["NODE_ENV"] === "production" ? "https://yebo.dev" : "http://localhost:8787"),
-  DEBUG_ADMIN_TOKEN: import_zod.z.string().optional()
+  DEBUG_ADMIN_TOKEN: import_zod.z.string().optional(),
+  // PostgreSQL (optional — file-based fallback if not set)
+  DATABASE_URL: import_zod.z.string().optional(),
+  // Redis / Upstash (optional — in-memory fallback if not set)
+  UPSTASH_REDIS_URL: import_zod.z.string().optional(),
+  UPSTASH_REDIS_TOKEN: import_zod.z.string().optional(),
+  // Webhook HMAC secret
+  WEBHOOK_SECRET: import_zod.z.string().default("dev-webhook-secret")
 }).passthrough();
 var env = ENV.parse(process.env);
 var log = (0, import_pino.default)({
@@ -9444,6 +9767,10 @@ var metrics = {
 async function fetchPolicyDecision(params) {
   const baseUrl = env.POLICY_BACKEND_URL;
   if (!baseUrl) {
+    if (process.env["NODE_ENV"] === "production") {
+      log.error({ mandate_id: params.mandate_id }, "POLICY_BACKEND_URL not configured \u2014 denying execution in production");
+      return { allowed: false, reason: "policy_backend_not_configured", message: "Policy backend required in production" };
+    }
     return { allowed: true, reason: "no_policy_backend_configured" };
   }
   const controller = new AbortController();
@@ -9576,6 +9903,7 @@ function requireDebugAuth(req, res, next) {
   next();
 }
 var app = (0, import_express2.default)();
+app.set("trust proxy", 1);
 app.use(helmet());
 app.use((0, import_cors.default)({ origin: env.NODE_ENV === "production" ? false : "*" }));
 app.use(import_express2.default.json({ limit: "256kb" }));
@@ -10110,6 +10438,11 @@ app.post("/passkey/auth/verify", verifyLimiter, validate(AuthVerifySchema), asyn
   }
 });
 app.post("/passkey/partner/register", validate(RegisterPartnerSchema), (req, res) => {
+  const sessionToken = req.headers["x-yebo-session"] ?? req.headers["authorization"]?.replace("Bearer ", "");
+  if (!sessionToken) {
+    res.status(401).json({ error: "SESSION_REQUIRED", message: "Valid passkey session required to register a partner" });
+    return;
+  }
   const { partner_id, partner_name, partner_origin, allowed_scopes } = req.body;
   const partner = (0, import_yebo_passkey.registerPartner)({ partner_id, partner_name, partner_origin, ...allowed_scopes ? { allowed_scopes } : {} });
   res.json({ registered: true, partner_id: partner.partner_id });
@@ -10412,7 +10745,7 @@ app.post("/intent/continue", async (req, res) => {
     policy: { allowed: policy.allowed, reason: policy.reason, ...policy.policy_id ? { policy_id: policy.policy_id } : {} }
   });
 });
-app.get("/metrics", (_req, res) => {
+app.get("/metrics", requireDebugAuth, (_req, res) => {
   const pathCounts = {};
   for (const [path, count] of metrics.requests_by_path) {
     pathCounts[path] = count;
@@ -11016,9 +11349,28 @@ function printStartupSummary() {
 log.info({
   workers: ["execution-worker", "audit-writer", "integrity-worker", "receipt-builder", "notification-service"]
 }, "event-driven workers initialized");
+async function initInfrastructure() {
+  await initDatabase();
+  globalThis["__yebo_db__"] = { dbAppendAudit };
+  await initRedis();
+  log.info(
+    { database: !!process.env["DATABASE_URL"], redis: !!process.env["UPSTASH_REDIS_URL"] },
+    "infrastructure initialized"
+  );
+}
 if (env.NODE_ENV !== "test") {
-  app.listen(env.PORT, () => {
-    printStartupSummary();
+  initInfrastructure().then(() => {
+    app.listen(env.PORT, () => {
+      printStartupSummary();
+    });
+  }).catch((err) => {
+    log.error({ err }, "infrastructure initialization failed \u2014 starting anyway");
+    app.listen(env.PORT, () => {
+      printStartupSummary();
+    });
+  });
+} else {
+  initInfrastructure().catch(() => {
   });
 }
 var server_default = app;
